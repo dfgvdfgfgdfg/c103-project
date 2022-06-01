@@ -1,0 +1,32 @@
+body{
+    background-color:crimson;
+    color:white;
+}
+.heading{
+    width:80%;
+    font-size:22px;
+}
+#camera{
+    border:2px dashed pink;
+width:350px;
+height:300px;
+}
+.name_of_objects{
+color:yellow;
+}
+#result_object_name{
+    color:yellow;
+}
+#result_object_accuracy{
+    color:yellow;
+}
+p{
+    color:cornflowerblue
+}
+.copy_right_footer{
+    background-color: blue;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
